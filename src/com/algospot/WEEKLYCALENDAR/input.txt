@@ -1,0 +1,14 @@
+5
+7 4 Saturday
+1 3 Saturday
+1 1 Sunday
+1 1 Saturday
+12 31 Sunday
+12 31 Saturday
+12 31 Tuesday
+1 1 Tuesday
+7 27 Saturday
+7 27 Sunday
+7 28 Sunday
+7 28 Monday
+7 29 Tuesday
